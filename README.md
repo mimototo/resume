@@ -18,25 +18,21 @@
 ## 技術
 
 - ftont
-
   - React
   - TypeScript
   - Next.js
 
 - back
-
   - Java
   - Python
   - Go
 
 - other
-
   - GraphQL
   - AWS
   - github
 
 - vim
-
   - vim
 
 ## 職務経歴
