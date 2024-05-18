@@ -1,23 +1,43 @@
-# mimototo - フロントエンドエンジニア
+# mimototo - Frontend Engineer
 
-## 基本情報
+## 私
 
-- **氏名**: 味元 孝晃(mimoto takaaki)
-- **職業**: フロントエンドエンジニア
-- **連絡先**: mail@mimotot.jp
-- **GitHub**: [GitHubリンク](https://github.com/mimototo)
-- **Twitter**: [Twitterリンク](https://x.com/mimototo_)
+- **name**: 味元 孝晃(mimoto takaaki)
+- **live**: 京都⛩ -> 2024/10までに大阪予定
+- **job**: Frontend Engineer
+- **mail**: mail@mimotot.jp
+- **GitHub**: [GitHub](https://github.com/mimototo)
+- **Twitter**: [Twitter](https://x.com/mimototo_)
 
 ## 概要
 
-私は個人事業主としてフロントエンドエンジニアの業務に携わり、4年の経験を持っています。チーム開発の効率化に努め、PrettierやESLint(現在はBiome)を導入してコードの統一性を保つ基盤を整えることを得意としています。また、デザインの統一性を重視し、考えることが好きです。主にReactを用いたモダンな技術を駆使して開発を行い、新しい技術への興味と探求心を持っています。
+私は個人事業主としてフロントエンドエンジニアの業務に携わり、4年になります。
+チーム開発の効率化に努め、PrettierやESLint(現在はBiome)を導入してコードの統一性を保つ基盤を整えることを得意としています。また、デザインの統一性を重視し、考えることが好きです。
+現在は主にReactを用いたモダンな技術を駆使して開発を行い、新しい技術への興味と探求心を持っています。
 
-## 技術スキル
+## 技術
 
-- **言語**: JavaScript, TypeScript, Java, Go, Python
-- **フレームワーク**: React, Next.js
-- **ツール**: Git, Docker
-- **その他**: GraphQL, REST API, CI/CD
+- ftont
+
+  - React
+  - TypeScript
+  - Next.js
+
+- back
+
+  - Java
+  - Python
+  - Go
+
+- other
+
+  - GraphQL
+  - AWS
+  - github
+
+- vim
+
+  - vim
 
 ## 職務経歴
 
